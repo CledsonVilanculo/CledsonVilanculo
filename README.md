@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CledsonVilanculo
 - 👀 I’m interested in music, gaming and coding
-- 🌱 I’m currently learning JavaScript, HTML and CSS
+- 🌱 I’m currently learning Java and web development
 
 <!---
 CledsonVilanculo/CledsonVilanculo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
