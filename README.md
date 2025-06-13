@@ -8,7 +8,7 @@
 
 - `Educação`: Terminei o ensino secundário em 2023 na **Escola Secundária de Massinga**
 
-- `Passatempos`: Jogar (**Minecraft, Mortal Kombat e Friday Night Funkin'**), escutar música
+- `Passatempos`: Jogar (**Minecraft, Mortal Kombat e Friday Night Funkin'**), edição de fotos e vídeos, e aprender novas tecnologias
 
 - `Minhas redes sociais`: [YouTube](https://www.youtube.com/@CledsonVilanculoDev), [TikTok](http://tiktok.com/@cledsonvilanculo), [Facebook](https://www.facebook.com/profile.php?id=61562460322508)
 
@@ -22,10 +22,6 @@
 
 - `Education`: I finished high school in 2023 at **Massinga High School**
 
-- `Giveaways`: Play (**Minecraft, Mortal Kombat and Friday Night Funkin'**), listen to music
+- `Giveaways`: Play games (**Minecraft, Mortal Kombat and Friday Night Funkin'**), edit photos and videos, and learn new technologies
 
 - `My social networks`: [YouTube](https://www.youtube.com/@CledsonVilanculoDev), [TikTok](http://tiktok.com/@cledsonvilanculo), [Facebook](https://www.facebook.com/profile.php?id=61562460322508)
-<!---
-CledsonVilanculo/CledsonVilanculo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
