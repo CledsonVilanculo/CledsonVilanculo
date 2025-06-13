@@ -1,6 +1,6 @@
 # Português
 
-### Meu nome é **Cledson Vilanculo**
+### Olá mundo, o meu nome é **Cledson Castigo Vilanculo**
 
 -`Atualmente`: Estou no primeiro ano do curso de **Tecnologias de Informação**, na **Universidade Católica de Moçambique**
 
@@ -11,6 +11,13 @@
 -`passatempos`: Jogar (**Minecraft, Mortal Kombat e Friday Night Funkin'**), escutar música
 
 -`Minhas redes sociais`: [YouTube](https://www.youtube.com/@CledsonVilanculoDev), [TikTok](http://tiktok.com/@cledsonvilanculo), [Facebook](https://www.facebook.com/profile.php?id=61562460322508)
+
+# English
+
+### Hello world, my name is **Cledson Castigo Vilanculo**
+
+-`At the moment`: I am in the first year of the **Information Technology** course at the **Catholic University of Mozambique**
+
 
 <!---
 CledsonVilanculo/CledsonVilanculo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
