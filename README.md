@@ -12,7 +12,7 @@ Para além de programar ele também cria apresentações (slides) PowerPoint e e
 
 ## English
 
-Currently in his second year of the Information Technology course at the [Catholic University of Mozambique](https://ucm.ac.mz), Cledson Vilanculo is a young Java and web front-end programmer and web designer passionate about technology.
+Currently in his second year of the <strong>Information Technology</strong> course at the [Catholic University of Mozambique](https://ucm.ac.mz), <strong>Cledson Vilanculo</strong> is a young Java and web front-end programmer and web designer passionate about technology.
 
 In addition to programming, he also creates PowerPoint presentations (slides) and edits photos.
 
