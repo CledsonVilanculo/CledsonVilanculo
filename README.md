@@ -8,7 +8,6 @@ Para além de programar ele também cria apresentações (slides) PowerPoint e e
 - [Facebook](https://www.facebook.com/profile.php?id=61562460322508)
 - [TikTok](https://www.tiktok.com/@cledsonvilanculo)
 - [WhatsApp](https://wa.me/258856298413)
-- [Workana](https://www.workana.com/freelancer/d025cc68018004f7839ff53e3f0d3ff1)
 - <strong>E-mail</strong>: cledsonvilanculo4@gmail.com
 
 ## English
@@ -22,5 +21,4 @@ In addition to programming, he also creates PowerPoint presentations (slides) an
 - [Facebook](https://www.facebook.com/profile.php?id=61562460322508)
 - [TikTok](https://www.tiktok.com/@cledsonvilanculo)
 - [WhatsApp](https://wa.me/258856298413)
-- [Workana](https://www.workana.com/freelancer/d025cc68018004f7839ff53e3f0d3ff1)
 - <strong>E-mail</strong>: cledsonvilanculo4@gmail.com
