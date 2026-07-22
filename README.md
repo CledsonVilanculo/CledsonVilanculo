@@ -8,6 +8,7 @@ Para além de programar ele também cria apresentações (slides) PowerPoint e e
 - [VELLUN](https://vellun.onrender.com) - Site para gerar trabalhos académicos de pesquisa de forma automática
 - [SpringFile](https://springfile.vercel.app) - Programa de código aberto para partilha de ficheiros localmente usando Wi-Fi
 - [Site oficial de Moz Animações](https://mozanimacoes.vercel.app) - Site oficial do canal [Moz Animações](https://www.facebook.com/profile.php?id=100083674427789)
+- [FreeMuze](https://freemuze.onrender.com) - Site para baixar músicas de graça
 - [Outros...](https://github.com/CledsonVilanculo?tab=repositories)
 
 ### Minhas redes sociais
@@ -29,6 +30,7 @@ In addition to programming, he also creates PowerPoint presentations (slides) an
 - [VELLUN](https://vellun.onrender.com) - Website for automatically generating academic research papers
 - [SpringFile](https://springfile.vercel.app) - Open-source program for sharing files locally using Wi-Fi
 - [Official Moz Animations Website](https://mozanimacoes.vercel.app) - Official website of the [Moz Animations](https://www.facebook.com/profile.php?id=100083674427789) channel
+- [FreeMuze](https://freemuze.onrender.com) - Free music downloader
 - [Other...](https://github.com/CledsonVilanculo?tab=repositories)
 
 ### My social media
