@@ -7,7 +7,7 @@ Para além de programar ele também cria apresentações (slides) PowerPoint e e
 
 - [SpringFile](https://springfile.vercel.app) - Programa de código aberto para partilha de ficheiros localmente usando Wi-Fi
 - [Site oficial de Moz Animações](https://mozanimacoes.vercel.app) - Site oficial do canal [Moz Animações](https://www.facebook.com/profile.php?id=100083674427789)
-- [FreeMuze](https://freemuze.onrender.com) - Site para baixar músicas de graça
+- [YourFy](https://yourfypage.vercel.app/) - Uma alternativa gratuíta e sem anúncios do Spotify
 - [Outros...](https://github.com/CledsonVilanculo?tab=repositories)
 
 ### Minhas redes sociais
@@ -28,7 +28,7 @@ In addition to programming, he also creates PowerPoint presentations (slides) an
 
 - [SpringFile](https://springfile.vercel.app) - Open-source program for sharing files locally using Wi-Fi
 - [Official Moz Animations Website](https://mozanimacoes.vercel.app) - Official website of the [Moz Animations](https://www.facebook.com/profile.php?id=100083674427789) channel
-- [FreeMuze](https://freemuze.onrender.com) - Free music downloader
+- [YourFy](https://yourfypage.vercel.app/) - An ad-free and free alternative to Spotify
 - [Other...](https://github.com/CledsonVilanculo?tab=repositories)
 
 ### My social media
