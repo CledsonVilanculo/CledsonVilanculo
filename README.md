@@ -6,7 +6,7 @@ Para além de programar ele também cria apresentações (slides) PowerPoint e e
 ### Meus projetos
 
 - [SpringFile](https://springfile.vercel.app) - Programa de código aberto para partilha de ficheiros localmente usando Wi-Fi
-- [Site oficial de Moz Animações](https://mozanimacoes.vercel.app) - Site oficial do canal [Moz Animações](https://www.facebook.com/profile.php?id=100083674427789)
+- [PintoShop](https://pintoshop.app) - Site de compra e vendas online em Moçambique
 - [YourFy](https://yourfypage.vercel.app/) - Uma alternativa gratuíta e sem anúncios do Spotify
 - [Outros...](https://github.com/CledsonVilanculo?tab=repositories)
 
@@ -27,7 +27,7 @@ In addition to programming, he also creates PowerPoint presentations (slides) an
 ### My Projects
 
 - [SpringFile](https://springfile.vercel.app) - Open-source program for sharing files locally using Wi-Fi
-- [Official Moz Animations Website](https://mozanimacoes.vercel.app) - Official website of the [Moz Animations](https://www.facebook.com/profile.php?id=100083674427789) channel
+- [PintoShop](https://pintoshop.app) - Online buying and selling site in Mozambique
 - [YourFy](https://yourfypage.vercel.app/) - An ad-free and free alternative to Spotify
 - [Other...](https://github.com/CledsonVilanculo?tab=repositories)
 
