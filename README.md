@@ -5,9 +5,9 @@ Para além de programar ele também cria apresentações (slides) PowerPoint e e
 
 ### Meus projetos
 
-- [SpringFile](https://springfile.vercel.app) - Programa de código aberto para partilha de ficheiros localmente usando Wi-Fi
 - [PintoShop](https://pintoshop.app) - Site de compra e vendas online em Moçambique
 - [YourFy](https://yourfypage.vercel.app/) - Uma alternativa gratuíta e sem anúncios do Spotify
+- [SpringFile](https://springfile.vercel.app) - Programa de código aberto para partilha de ficheiros localmente usando Wi-Fi
 - [Outros...](https://github.com/CledsonVilanculo?tab=repositories)
 
 ### Minhas redes sociais
@@ -26,9 +26,9 @@ In addition to programming, he also creates PowerPoint presentations (slides) an
 
 ### My Projects
 
-- [SpringFile](https://springfile.vercel.app) - Open-source program for sharing files locally using Wi-Fi
 - [PintoShop](https://pintoshop.app) - Online buying and selling site in Mozambique
 - [YourFy](https://yourfypage.vercel.app/) - An ad-free and free alternative to Spotify
+- [SpringFile](https://springfile.vercel.app) - Open-source program for sharing files locally using Wi-Fi
 - [Other...](https://github.com/CledsonVilanculo?tab=repositories)
 
 ### My social media
